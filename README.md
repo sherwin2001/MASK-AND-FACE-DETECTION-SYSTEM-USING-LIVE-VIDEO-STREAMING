@@ -22,6 +22,6 @@ The workflow diagram of the working is as follows:  <br></br>
 5. Now these images will be sent to the face recognition model which will recognize the face if it is present in our database else it will show “Unknown”.  
 6. Now, from database system will fetch details of the person and accordingly it will send alert message via email system.
 7. If face is recognized, then the person is alerted through associated email id and fined if threshold exceeds.
-
+<br></br><br></br>
 Uses **MobileNetV2 Neural Network** Model and **FaceNet Deep Learning** Model trained on **Kaggle** and Self-Constructed images dataset.  
 Developed using **Python**, **OpenCv** and **Django**.

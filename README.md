@@ -1,4 +1,4 @@
-# MASK-AND-FACE-DETECTION-SYSTEM-USING-LIVE-VIDEO-STREAMING
+# MASK AND FACE DETECTION SYSTEM USING LIVE VIDEO STREAMING
 ## An AI and Computer Vision based Intelligent System to scan and ensure that People wear Mask during COVID outbreak.
 
 ###### (This is my final year project. Due to certain privacy policies associated with the college project, I am not permitted to share code files. However, I have added all the important slices of code in the [Project Report Book](https://github.com/sherwin2001/MASK-AND-FACE-DETECTION-SYSTEM-USING-LIVE-VIDEO-STREAMING/blob/master/Project_ReportBook.pdf))  

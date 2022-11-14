@@ -1,7 +1,7 @@
 # MASK-AND-FACE-DETECTION-SYSTEM-USING-LIVE-VIDEO-STREAMING
 ## An AI and Computer Vision based Intelligent System to scan and ensure that People wear Mask during COVID outbreak.
 
-###### (This is my final year project. Due to certain policies associated with the college project, I am not permitted to share code files. However, I have added all the important slices of code in the [Project Report Book](https://github.com/sherwin2001/MASK-AND-FACE-DETECTION-SYSTEM-USING-LIVE-VIDEO-STREAMING/blob/master/Project_ReportBook.pdf))  
+###### (This is my final year project. Due to certain privacy policies associated with the college project, I am not permitted to share code files. However, I have added all the important slices of code in the [Project Report Book](https://github.com/sherwin2001/MASK-AND-FACE-DETECTION-SYSTEM-USING-LIVE-VIDEO-STREAMING/blob/master/Project_ReportBook.pdf))  
 COVID-19 pandemic is the most life-changing event which startled the world since the year 2020 began.
 Further, with the reopening of countries from COVID-19 lockdown, Government and Public health agencies are recommending face mask as essential measures to keep us safe when venturing into public.  
 A survey shows that 90% of people in India are aware of wearing a mask, but only 44% of them are wearing a face mask. To monitor that people are following this basic safety principle, a strategy should be developed.  

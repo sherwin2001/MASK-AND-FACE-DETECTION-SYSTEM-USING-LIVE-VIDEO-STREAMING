@@ -24,5 +24,9 @@ The workflow diagram of the working is as follows:  <br></br>
 4. The second step is to recognize the faces of each person which has been classified as “Without Mask”. (Since, face is properly visible in case of “without mask” it becomes easy to recognize them.)  
 5. Now these images will be sent to the face recognition model which will recognize the face if it is present in our database else it will show “Unknown”.  
 6. Now, from database system will fetch details of the person and accordingly it will send alert message via email system.
-7. If face is recognized, then the person is alerted through associated email id and fined if threshold exceeds.
+7. If face is recognized, then the person is alerted through associated email id and fined if threshold exceeds.  
+<br>
+Working demonstration of the project:  
+
+https://user-images.githubusercontent.com/64347893/201717801-7c752f6a-3cc3-4530-97e8-2a1c98049dd5.mp4
 

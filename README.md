@@ -7,15 +7,19 @@ Further, with the reopening of countries from COVID-19 lockdown, Government and 
 A survey shows that 90% of people in India are aware of wearing a mask, but only 44% of them are wearing a face mask. To monitor that people are following this basic safety principle, a strategy should be developed.  
 An automated detector system can be implemented to check and ensure that the principle is followed.  
 
-Uses **MobileNetV2 Neural Network** Model and **FaceNet Deep Learning** Model trained on **Kaggle** and Self-Constructed images dataset.  
+The project uses **MobileNetV2 Neural Network** Model and **FaceNet Deep Learning** Model trained on **Kaggle** and Self-Constructed images dataset.  
 Developed using **Python**, **OpenCv** and **Django**.  
+
+Working demonstration of the project:  
+
+https://user-images.githubusercontent.com/64347893/201717801-7c752f6a-3cc3-4530-97e8-2a1c98049dd5.mp4
 
 Project is divided into three sections:
 - Mask Detection system
 - Face Recognition system
-- Logs Storage and Analytics
+- Data Storage and Analytics
 
-The workflow diagram of the working is as follows:  <br></br>
+The workflow diagram of the project is as follows:  <br></br>
 ![image](https://user-images.githubusercontent.com/64347893/201297478-4a6d3d19-8b96-440f-a889-cadeb4d6d6fc.png) 
 
 1. At first, System will take frame(image) as input from the Camera (IP Webcam).  
@@ -25,8 +29,3 @@ The workflow diagram of the working is as follows:  <br></br>
 5. Now these images will be sent to the face recognition model which will recognize the face if it is present in our database else it will show “Unknown”.  
 6. Now, from database system will fetch details of the person and accordingly it will send alert message via email system.
 7. If face is recognized, then the person is alerted through associated email id and fined if threshold exceeds.  
-<br>
-Working demonstration of the project:  
-
-https://user-images.githubusercontent.com/64347893/201717801-7c752f6a-3cc3-4530-97e8-2a1c98049dd5.mp4
-
